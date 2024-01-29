@@ -1,0 +1,27 @@
+\bAI\b
+|\bArtificial Intelligence\b
+|\bMachine Learning\b
+|\bDeep Learning\b
+|\bNeural\b
+|\bML\b
+|\bDL\b
+|\btransformer\b
+|\bLanguage Model\b
+|\bSVM\b
+|\bSupport Vector Machine\b
+|\bRandom Forest\b
+|\bSimulated Annealing\b
+|\bDNN\b
+|\bRL\b
+|\bReinforcement Learning\b
+|\bbots\b
+|\bnaive bayes\b
+|deep ?learn
+|pre-?train
+|model generate
+|few.?shot
+|zero.?shot
+|gradient boost
+|boosting
+|conditional random field
+|bayesian network
